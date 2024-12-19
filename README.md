@@ -1,5 +1,5 @@
 ---
-description: Attacking and Defending Active Directory | Abhinandan Khurana (L0u51f3r007)
+description: Attacking and Defending Active Directory | Gaurav Sharma
 ---
 
 # 📔 CRTP Notes
